@@ -4,3 +4,4 @@ From the [skillfatory Data Science course](https://skillfactory.ru/data-scientis
 ## Проекты
 
 * [проект 0. игра: угадай число](https://github.com/evangelistafoxtrot/IDE.git)
+* [проект 1.______](________)
